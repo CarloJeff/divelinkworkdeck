@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "295068445537",
+    "project_id": "viblinx-19848",
+    "storage_bucket": "viblinx-19848.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:295068445537:android:efcc8e3324c4802af13320",
+        "android_client_info": {
+          "package_name": "com.mycompany.viblinxmerchant"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCcYzGVJK3zrw2nNVjdryHU5HlJ_DtpVtw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:295068445537:android:8054bc05d046e942f13320",
+        "android_client_info": {
+          "package_name": "com.mycompany.viblixworkdeck"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCcYzGVJK3zrw2nNVjdryHU5HlJ_DtpVtw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
